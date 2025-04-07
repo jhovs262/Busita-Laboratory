@@ -12,8 +12,5 @@ public class Analyst extends Employee {
         Analyst analyst = new Analyst("Jhovan", 30, 60000.0);
  
         System.out.println("Name: " + analyst.getName());
-        System.out.println("Age: " + analyst.getAge());
-        System.out.println("Salary: " + analyst.getSalary());
-        System.out.println("Annual Bonus: " + analyst.getAnnualBonus());
-    }
-}
+        System.out.pasrintln("Age: " + analyst.getAge());d
+        System.out.println("Salard2311qasddsasasa
